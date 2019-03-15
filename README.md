@@ -2,7 +2,7 @@
 This is the code for "Learn Blockchain in 2 Months" by Siraj Raval on Youtube 
 
 
-## Overview
+## Overview 
 
 This is the code for [this]() video on Youtube by Siraj Raval on Learning Blockchain in 2 Months.
 
@@ -33,5 +33,5 @@ This is the code for [this]() video on Youtube by Siraj Raval on Learning Blockc
 ## Week 7 (Decentralized Applications):
 - http://shop.oreilly.com/product/0636920039334.do
 
-## Week 8 (Build a Decentralized Application):
+## Week 8 (Time to build a Decentralized Application):
 - https://github.com/moshest/p2p-index
